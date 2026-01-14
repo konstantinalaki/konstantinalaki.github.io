@@ -3,3 +3,8 @@
 Architecture · Computational Design · Robotic Fabrication
 
 This site documents selected projects and systems.
+
+- [robotically extended craftsmanship MARKING-BASED INTERFACES](projects/project1.md) 
+- [glatsch HOLLOW-CORE PRINTED GELATERIA IN MULEGNS](projects/project2.md) 
+- [exquisite corpse TIMBER TECTONICS](projects/project3.md) 
+- [robotic sandscapes ADAPTIVE PALIMPSEST](projects/project3.md) 
